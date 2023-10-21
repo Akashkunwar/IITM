@@ -1,0 +1,17 @@
+form {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    background-color: rgb(218, 206, 230);
+
+    margin: 0 auto;
+
+    width: 80%;
+
+    padding: 50px;
+
+    border: 1px solid #f78989;
+
+    border-radius: 35px;
+
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.1);
+}
