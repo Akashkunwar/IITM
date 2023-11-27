@@ -3,7 +3,7 @@ import sys
 import matplotlib.pyplot as plt
 
 
-df =  pd.read_csv("data.csv")
+df =  pd.read_csv("MAD 1\Week 3 Lab Assignment\data.csv")
 
 
 try:
